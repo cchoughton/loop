@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #TODO   Add flags to specify time interval between loops
+#       Prevent 'loop loop <command>'
 
 IFS=''
 
