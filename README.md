@@ -1,6 +1,5 @@
-#Usage:
-squeue | loop
-<command> | loop
+### Usage:
+loop <command>
 
 Little tool for me to use to loop a single command clearing old output as it goes.
 
